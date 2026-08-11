@@ -182,7 +182,7 @@ main{
 }
 
 .contact-link{
-    color: #0c0c4d;
+    color: #252323;
     cursor: pointer;
     text-decoration: none;
     transition: 0.3s;
@@ -190,6 +190,7 @@ main{
 
 .contact-link:hover{
    color: #0f0fb6;
+    text-decoration: underline;   
 
 }
 
